@@ -94,7 +94,7 @@ class AppConfig:
 ## 📊 Performance & Results
 
 ### 1. Defensive Strategy (e.g., Kweichow Moutai)
-![Moutai Result](.Pictures/茅台.png)
+![Moutai Result][(.Pictures/茅台.png)](https://github.com/Bob309999/Stocks-prediction-project-for-Sundeep-Rangan-Machine-Learning-Class-in-NYU/blob/main/Pictures/%E8%8C%85%E5%8F%B0.png?raw=true)
 
 
 * **Precision (Win Rate):** Achieved **50.98%** with a highly effective risk-control logic. While the win rate is balanced, the strategy excels in timing the market exits.
